@@ -1,7 +1,7 @@
 $(function () {
 
     //CONTROLE DO MENU MOBILE
-    $('.mobile_action').click(function () {
+   /* $('.mobile_action').click(function () {
         if (!$(this).hasClass('active')) {
             $(this).addClass('active');
             $('.main_header_nav').animate({'left': '0px'}, 500);
@@ -9,7 +9,7 @@ $(function () {
             $(this).removeClass('active');
             $('.main_header_nav').animate({'left': '-100%'}, 500);
         }
-    });
+    }); */
 
     //HEADER
     $(window).scroll(function () {
