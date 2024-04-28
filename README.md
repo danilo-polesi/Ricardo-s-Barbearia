@@ -5,7 +5,7 @@ Agradecemos por cada feedback e levamos suas sugestões muito a sério.<br><br>
 <b>Informações Adicionais:</b><br><br>
 Este repositório contém os arquivos necessários para criar um website para a Ricardo's Barbearia.<br><br>
 O website foi projetado para fornecer informações sobre os serviços oferecidos pela barbearia, bem como para permitir que os clientes marquem compromissos online.<br><br>
-O website é construído usando HTML, CSS e JavaScript. O código é bem documentado e fácil de entender.<br><br>
+O website é construído usando HTML, CSS e JavaScript.<br><br>
 Espero que você ache este repositório útil. Sinta-se à vontade para contribuir com quaisquer sugestões ou melhorias.<br><br><hr>
 <b>Viewer:</b><br><br>
 <img src="https://lh3.googleusercontent.com/pw/AP1GczOi2lfaMJQ8lZnGXu91fmqV5wueyAxoVLlkkBMuS7lB5_da3aWHRdR5atutK58-mMJSWKRJgtDiOqaqZdN3Nu2PyGMIZtkpo_KGUONP_GGbmWALNxCVSeznrLqhCxZ4kyiT5fXpPEyLwNB8szThCqw=w1619-h919-s-no-gm?authuser=1"><br>
