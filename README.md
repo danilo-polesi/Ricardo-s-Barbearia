@@ -1,6 +1,6 @@
 <b>Apresentação do Repositório<br><br>
 Nome:</b> Ricardo's Barbearia<br><br>
-<b>Endereço do Website:</b><a href="https://danilo-polesi.github.io/Ricardo-s-Barbearia/" target="_Blanck"> https://github.com/danilo-polesi/Ricardo-s-Barbearia </a><br><br>
+<b>Endereço do Website:</b><a href="https://danilo-polesi.github.io/Ricardo-s-Barbearia" target="_blanck">https://danilo-polesi.github.io/Ricardo-s-Barbearia</a><br><br>
 Agradecemos por cada feedback e levamos suas sugestões muito a sério.<br><br>
 <b>Informações Adicionais:</b><br><br>
 Este repositório contém os arquivos necessários para criar um website para a Ricardo's Barbearia.<br><br>
